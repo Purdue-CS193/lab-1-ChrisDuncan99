@@ -1,4 +1,9 @@
-# Welcome to GitHub Pages
+# Chris Duncan's First CS193 Lab
+
+## Favorite Things About CS193
+- The class seems a lot more laid-back than other CS classes
+- Smaller class size than bigger lectures, able to get problems answered quicker
+- The TA's are nice and helpful
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
